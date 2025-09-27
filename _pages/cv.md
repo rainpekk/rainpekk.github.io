@@ -13,21 +13,28 @@ Education
 ======
 * B.S. in Mathematics, Peking University, 2028 (expected)
 
-Course Woek
+Course Work
 ======
 * Fall 2024:
-  * Analysis I
-  * Advanced Algebra I
+  * Mathematical Analysis (I)
+  * Advanced Algebra (I)
   * Geometry
   * Introduction to Computation
+  * Human Sex, Reproduction and Health
+  * Auto/Biography:A Study of Classical Figures
 
 * Spring 2025:
-  * Analysis II
-  * Advanced Algebra II
-  * 	Data Structure and Algorithm
+  * Mathematical Analysis (II)
+  * Advanced Algebra (II)
+  * Data Structure and Algorithm
+ 
+* Summer 2025:
+  * Critical Thinking and Academic Writing
+  * 	Introduction to Seismology
 
 * Fall 2025
   * Abstract Algebra
   * Real Analysis
   * Complex Analysis
-  * Analysis III
+  * Mathematical Analysis (III)
+  * General Physics (II)
