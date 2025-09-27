@@ -13,4 +13,4 @@ My academic interests lie at the intersection of mathematics, data science, and 
 
 At present, I am engaged with Professor [Yaodong Yang](https://www.yangyaodong.com/)’s research group, where I am gaining research experience and exploring topics in AI. While I am still in the early stages of learning and observation, I am eager to deepen my understanding and contribute to the field through both theoretical and applied perspectives.
 
-[Email](mailto:2400011788@stu.pku.edu.cn)/[github](https://github.com/rainpekk)/[Wechat](rainpekk.github.io/image/Wechat.png}
+[Email](mailto:2400011788@stu.pku.edu.cn)/[github](https://github.com/rainpekk)/[Wechat](./images/Wechat.png}
