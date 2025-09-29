@@ -25,9 +25,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Qingzhou Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
   bio              : "An undergraduate mathematics student"
-  location         : "Haidian Peking China"
+  location         : "Haidian, Beijing, China"
   employer         : "Peking University"
   uri              : # URL
   email            : "2400011788@stu.pku.edu.cn" 
