@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Qingzhou Zhang"
-  pronouns         : "he/him"
+  pronouns         : # "he/him"
   bio              : "An undergraduate mathematics student"
   location         : "Haidian, Beijing, China"
   employer         : "Peking University"
